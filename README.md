@@ -10,7 +10,6 @@ A FastAPI backend that integrates Supabase, OpenAI, and LangChain to provide nat
 - Role-based SQL access using database views for controlled permissions.
 - Natural language to SQL query translation powered by GPT-4o via LangChain.
 - Uses Supabase PostgreSQL as the backend database.
-- Docker support for easy deployment and scalability.
 
 ---
 
