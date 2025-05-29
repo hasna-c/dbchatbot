@@ -1,5 +1,4 @@
 # dbchatbot
-# DB Chatbot API
 
 A FastAPI backend that integrates Supabase, OpenAI, and LangChain to provide natural language SQL query responses with secure, role-based access.
 
